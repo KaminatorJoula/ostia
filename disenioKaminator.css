@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    font-family: consolas;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title {
+    font-family: consolas;
+    font-size: 60px;
+}
+
+.warn {
+    margin: 0px;
+    font-size: 10px;
+    color: red;
+}
+
+.i {
+    margin: 10px;
+    background-color: green;
+}
+.video {
+    width: 500px;
+}
+
+.initial-image {
+    padding: 20px;
+    width: 488px;
+    height: 477px;
+}
+
+.final {
+    padding: 30px;
+    text-align: start;
+    color: white;
+    background-color: gray;
+}
+
+.boton-especial {
+    color: green;
+    border: solid green 3px;
+}
